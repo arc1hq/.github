@@ -1,3 +1,1 @@
-arc1
-
 [![arc1](./arc1.svg)](https://arc1.io)
